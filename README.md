@@ -16,4 +16,4 @@
 
 ## Criador
 
-👦🏻| criado por mim [vinicius](https://instagram.com/viniciusw._)
+👦🏻| criado por [vinicius](https://instagram.com/viniciusw._)
