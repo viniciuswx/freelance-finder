@@ -9,9 +9,9 @@
 ## Tecnologias
 
 <ol>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
+  <li> HTML</li>
+  <li> CSS</li>
+  <li> JavaScript</li>
 </ol>
 
 ## Criador
