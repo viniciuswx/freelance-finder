@@ -8,11 +8,11 @@
 
 ## Tecnologias
 
-<ul>
-  <li>1️⃣| HTML</li>
-  <li>2️⃣| CSS</li>
-  <li>3️⃣| JavaScript</li>
-</ul>
+<ol>
+  <li>| HTML</li>
+  <li>| CSS</li>
+  <li>| JavaScript</li>
+</ol>
 
 ## Criador
 
