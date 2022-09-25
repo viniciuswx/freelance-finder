@@ -1,5 +1,5 @@
-<p>
-  
+<p align="center">
+  <img alt="" src="print-page.jpeg">
 </p>
 
 ## Freelance Finder
