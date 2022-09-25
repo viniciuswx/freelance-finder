@@ -6,6 +6,12 @@
 
 👨🏻‍💼| Uma empresa que visa melhorar a visibilidade dos trabalhadores remotos.
 
+## Tecnologias
+
+1️⃣| HTML
+2️⃣| CSS
+3️⃣| JavaScript
+
 ## Criador
 
-👦🏻| criado por mim [vinicius](instagram.com/viniciuswx._)
+👦🏻| criado por mim [vinicius](https://instagram.com/viniciuswx._)
