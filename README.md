@@ -13,7 +13,3 @@
   <li> CSS</li>
   <li> JavaScript</li>
 </ol>
-
-## Criador
-
-👦🏻| criado por [vinicius](https://instagram.com/viniciusw._)
