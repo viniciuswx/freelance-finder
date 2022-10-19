@@ -389,7 +389,7 @@ footer button:hover {
     }
 }
 
-.reveal {
+/* .reveal {
     position: relative;
     transform: translateY(150px);
     opacity: 0;
@@ -399,7 +399,7 @@ footer button:hover {
 .reveal.active {
     transform: translateY(0);
     opacity: 1;
-}
+} */
 
 .naoSelecionavel {
     -webkit-touch-callout: none;  /* iPhone OS, Safari */
