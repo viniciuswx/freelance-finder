@@ -1,0 +1,106 @@
+main {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.imagem {
+    display: flex;
+    flex-direction: column;
+}
+
+.imagem img {
+    position: absolute;
+    box-shadow: 0 0 25px rgba(0, 0, 0, 1);
+    border-radius: 5px;
+}
+
+.imagem #fundo {
+    width: 350px;
+    height: 250px;
+    background-color: #fff;
+    position: relative;
+    transform: rotateZ(-5deg);
+    border-radius: 5px;
+}
+
+#profissao {
+    display: flex;
+    gap: 2rem;
+}
+
+#profissao h1 {
+    font-size: 2.3rem;
+}
+
+#profissao p {
+    text-align: justify;
+}
+
+#info-profissao {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#info-profissao a button {
+    border-style: none;
+    background-color: #f1ec40;
+    color: #121212;
+    padding: .5rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    border: 1px solid transparent;
+    transition: all .3s;
+}
+
+#info-profissao a button:hover {
+    background-color: #121212;
+    border: 1px solid #fff;
+    color: #fff;
+}
+
+#logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#logo #back-to {
+    display: flex;
+    gap: 1rem;
+}
+
+#logo #back-to #voltar a,
+#logo #back-to #proximo a {
+    color: #fff;
+    font-size: 1.5rem;
+}
+
+#voltar,
+#proximo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#voltar span {
+    position: absolute;
+    transform: translate(-50px);
+    display: none;
+    text-transform: uppercase;
+}
+
+#proximo span {
+    position: absolute;
+    transform: translate(57px);
+    display: none;
+    text-transform: uppercase;
+}
+
+#voltar:hover span {
+    display: block;
+}
+
+#proximo:hover span {
+    display: block;
+}
