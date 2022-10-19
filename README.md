@@ -5,10 +5,6 @@ Uma empresa que oferece divulgação dos serviços das pessoas que trabalham por
 
 
 ## Screenshots
-
-<p align="center">
-  <img alt="" src="print-page.jpeg">
-</p>
 ## 🛠 Habilidades
 Javascript, HTML e CSS.
 
