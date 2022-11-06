@@ -326,69 +326,6 @@ footer button:hover {
   	-webkit-text-fill-color: transparent;
 }
 
-/* responsividade */
-
-@media only screen and (max-width: 1360px), screen and (max-height: 665px) {
-    #introducao h1 {
-        font-size: 5rem;
-    }
-
-    #sobre {
-        padding-top: 4.5rem;
-    }
-}
-
-@media only screen and (max-width: 1170px) {
-    #introducao h1 {
-        font-size: 4rem;
-    }
-
-    #trabalhos {
-        grid-template-columns: 1fr 1fr;
-    }
-
-    #sobre-imagem {
-        display: none;
-    }
-
-    #sobre-info {
-        padding: 4rem 4rem 4rem 4rem;
-    }
-}
-
-@media only screen and (max-width: 1000px) {
-    #introducao h1 {
-        font-size: 3rem;
-    }
-
-    #contato h1 {
-        font-size: 1.500rem;
-    }
-
-    #contato span {
-        font-size: .750rem;
-    }
-
-    #endereco span {
-        font-size: .750rem;
-    }
-
-    #inscrever span {
-        font-size: .750rem;
-    }
-
-    #inscrever input {
-        border: 2px solid black;
-        font-family: 'Lato';
-        padding: .150rem;
-        font-size: .750rem;
-    }
-
-    #botao-inscrever #email {
-        width: 12rem;
-    }
-}
-
 .reveal {
     position: relative;
     transform: translateY(150px);
@@ -409,4 +346,125 @@ footer button:hover {
     -ms-user-select: none;        /* IE10+ */
     user-select: none;            /* Possível implementação no futuro */
     /* cursor: default; */
+}
+
+/* responsividade */
+
+@media (max-width: 1200px) {
+    #title h1 {
+        font-size: 5rem;
+    }
+
+    #sobre-imagem {
+        display: none;
+    }
+
+    #sobre-info {
+        text-align: center;
+        padding: 4rem;
+    }
+
+    #trabalhos {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    #sobre-info {
+        width: auto;
+        height: auto;
+    }
+}
+
+@media (max-width: 900px) {
+    #title h1 {
+        font-size: 4rem;
+    }
+
+    #trabalhos {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 600px) {
+    #title img {
+        width: 60px;
+    }
+
+    #title h1 {
+        font-size: 3rem;
+    }
+
+    #rolagem i {
+        font-size: 2rem;
+    }
+
+    #introducao {
+        gap: 1rem;
+    }
+
+    #sobre-info {
+        padding: 3rem;
+    }
+
+    #sobre-info > h1 {
+        font-size: 1.75rem;
+    }
+
+    #sobre-info p {
+        text-align: center;
+        font-size: .8rem;
+    }
+
+    footer button {
+        font-size: .5rem;
+    }
+}
+
+@media (max-width: 500px) {
+    #title img {
+        width: 50px;
+    }
+
+    #title h1 {
+        font-size: 2.5rem;
+    }
+
+    #rolagem i {
+        font-size: 1.5rem;
+    }
+
+    #introducao {
+        gap: .5rem;
+    }
+
+    #sobre-info {
+        padding: 4rem 2rem;
+    }
+}
+
+@media (max-width: 375px) {
+    #title img {
+        width: 50px;
+    }
+
+    #title h1 {
+        font-size: 2rem;
+    }
+
+    #rolagem i {
+        font-size: 1.5rem;
+    }
+
+    #introducao {
+        gap: 0;
+    }
+
+    #sobre-info {
+        padding: 4rem;
+    }
+
+    #sobre-info p {
+        font-size: 1rem;
+    }
 }
