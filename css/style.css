@@ -34,6 +34,19 @@ body {
     overflow-x: hidden;
 }
 
+body::-webkit-scrollbar {
+	width: 12px;
+}
+
+body::-webkit-scrollbar-track {
+	background: #121212;
+}
+
+body::-webkit-scrollbar-thumb {
+	background-color: #f1ec40;
+	border-radius: 20px;
+}
+
 a .to-top {
     background-color: #f1ec40;
     position: fixed;
