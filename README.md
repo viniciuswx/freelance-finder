@@ -4,7 +4,7 @@
 Uma empresa que oferece divulgação dos serviços das pessoas que trabalham por conta própria.
 
 
-## Screenshots
+## Layout do projeto
 
 <p align="center">
   <img alt="" src="print-page.jpeg">
