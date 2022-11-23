@@ -340,6 +340,7 @@ footer button:hover {
 	color: #d6249f;
 }
 
+/*
 .reveal {
     position: relative;
     transform: translateY(150px);
@@ -351,6 +352,7 @@ footer button:hover {
     transform: translateY(0);
     opacity: 1;
 }
+*/
 
 .naoSelecionavel {
     -webkit-touch-callout: none;  /* iPhone OS, Safari */
