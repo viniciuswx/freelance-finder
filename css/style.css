@@ -218,11 +218,7 @@ button {
     position: relative;
     width: 50%;
     width: 350px;
-    transition: all .5s ease;
-}
-
-.container:hover {
-    transform: translateY(-15px);
+    transition: all .3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
   
 .image {
@@ -242,6 +238,11 @@ button {
     opacity: 0;
     transition: all .5s;
     background-color: rgba(0, 0, 0, .8);
+}
+
+#trabalhos:has(.container:hover) .container:not(:hover) {
+    transform: scale(.98);
+    opacity: .6;
 }
   
 .container:hover .overlay {
