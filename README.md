@@ -3,7 +3,9 @@
 
 Uma empresa que oferece divulgação dos serviços das pessoas que trabalham por conta própria.
 
-![Logo](<img alt="" src="imagens/logo2.png">)
+<p align="center">
+  <img alt="" src="imagens/logo2.png">
+</p>
 
 ## Layout do projeto
 
