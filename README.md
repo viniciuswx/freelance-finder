@@ -25,7 +25,7 @@ HTML, CSS e JavaScript.
  - [Swiper](https://swiperjs.com/)
 
 
-## 📲/💻 FUNCIONALIDADES
+## 📲 FUNCIONALIDADES
 
  - Desktop
  - Mobile
