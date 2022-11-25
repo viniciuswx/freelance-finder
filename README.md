@@ -19,24 +19,24 @@ Uma empresa que ajuda e da suporte para pessoas que trabalham por conta prórpia
 HTML, CSS e JavaScript.
 
 
-## BIBLIOTECAS
+## 📚 BIBLIOTECAS
 
  - [Font Awesome](https://fontawesome.com/)
  - [Swiper](https://swiperjs.com/)
 
 
-## FUNCIONALIDADES
+## 📲/💻 FUNCIONALIDADES
 
  - Desktop
  - Mobile
 
 
-## APRENDIZADOS
+## 👨🏻‍💻 APRENDIZADOS
 
 Aprendi a colocar as boas práticas do HTML e CSS, colocando no projeto o HTML semântico e responsividade com CSS.
 
 
-## FEEDBACK
+## 🧩 FEEDBACK
 
 Se você tiver algum feedback, por favor nos deixe saber por meio de vinnicorrea7@gmail.com.
 
