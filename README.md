@@ -1,7 +1,7 @@
 
 # 👨🏻‍💼 FREELANCE FINDER
 
-Uma empresa que ajuda e da suporte para pessoas que trabalham por conta prórpia (trabalhadores autônomos).
+Uma empresa que ajuda e dá suporte para pessoas que trabalham por conta própria (trabalhadores autônomos).
 [ACESSE O SITE](https://viniciuswx.github.io/freelance-finder/)
 
 
