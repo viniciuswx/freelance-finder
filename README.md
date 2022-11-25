@@ -1,8 +1,7 @@
 
 # 👨🏻‍💼 Freelance Finder
 
-<img alt="" src="imagens/logo2.png" width="100px">
-Uma empresa que oferece divulgação dos serviços das pessoas que trabalham por conta própria.
+<img alt="" src="imagens/logo2.png" width="50px"> Uma empresa que oferece divulgação dos serviços das pessoas que trabalham por conta própria.
 
 ## Layout do projeto
 
