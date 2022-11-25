@@ -2,11 +2,7 @@
 # 👨🏻‍💼 FREELANCE FINDER
 
 Uma empresa que ajuda e da suporte para pessoas que trabalham por conta prórpia (trabalhadores autônomos).
-
-
-## SITE
-
-[Freelance Finder](https://viniciuswx.github.io/freelance-finder/)
+[ACESSE O SITE](https://viniciuswx.github.io/freelance-finder/)
 
 
 ## 📃 LAYOUT
