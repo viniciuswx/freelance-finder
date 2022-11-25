@@ -11,14 +11,19 @@ Uma empresa que oferece divulgação dos serviços das pessoas que trabalham por
 </p>
 
 
-## 🛠 Habilidades
-Javascript, HTML e CSS.
+## 🛠 Tecnologias
+HTML, CSS e JavaScript
 
 
 ## Bibliotecas utilizadas
-
  - [Font Awesome](https://fontawesome.com/)
  - [Swiper](https://swiperjs.com/)
+
+
+## Diferencial
+Adaptado à:
+ - Desktop
+ - Mobile
 
 
 ## Aprendizados
