@@ -1,7 +1,7 @@
 
 # 👨🏻‍💼 FREELANCE FINDER
 
-Uma empresa que oferece divulgação dos serviços das pessoas que trabalham por conta própria.
+Uma empresa que ajuda e da suporte para pessoas que trabalham por conta prórpia (trabalhadores autônomos).
 
 
 ## 📃 Página inicial do site
@@ -13,7 +13,7 @@ Uma empresa que oferece divulgação dos serviços das pessoas que trabalham por
 
 ## 🛠 Tecnologias
 
-HTML, CSS e JavaScript
+HTML, CSS e JavaScript.
 
 
 ## Bibliotecas utilizadas
