@@ -7,7 +7,9 @@ Uma empresa que ajuda e da suporte para pessoas que trabalham por conta prórpia
 ## 📃 LAYOUT
 
 <p align="center">
-  <img alt="" src="print-page.jpeg">
+  <a href="https://viniciuswx.github.io/freelance-finder/">
+    <img alt="" src="print-page.jpeg">
+  </a>
 </p>
 
 
