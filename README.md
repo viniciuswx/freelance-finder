@@ -4,10 +4,10 @@
 Uma empresa que oferece divulgação dos serviços das pessoas que trabalham por conta própria.
 
 <p align="center">
-  <img alt="" src="imagens/logo2.png" width:"100px">
+  <img alt="" src="imagens/logo2.png" width="100px">
 </p>
 
-## Layout do projeto <img alt="" src="imagens/logo2.png" width:"100px">
+## Layout do projeto
 
 <p align="center">
   <img alt="" src="print-page.jpeg">
