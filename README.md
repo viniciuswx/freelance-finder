@@ -17,7 +17,7 @@ Javascript, HTML e CSS.
 
 ## Bibliotecas utilizadas
 
- - [Font Awesome](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Font Awesome](https://fontawesome.com/)
  - [Swiper](https://swiperjs.com/)
 
 
