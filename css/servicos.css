@@ -104,3 +104,21 @@ main {
 #proximo:hover span {
     display: block;
 }
+
+@media screen and (max-width: 1000px) {
+    #profissao .imagem {
+        display: none;
+    }
+
+    #profissao #info-profissao {
+        gap: 1.5rem;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    #profissao #info-profissao h1,
+    #profissao #info-profissao p,
+    #profissao #info-profissao a {
+        text-align: center;
+    }
+}
