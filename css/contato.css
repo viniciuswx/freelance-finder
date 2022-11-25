@@ -15,99 +15,113 @@ body {
     color: white;
 }
 
+input::placeholder,
+textarea::placeholder {
+    font-family: 'Lato';
+}
+
 header {
     display: flex;
     margin-top: 1rem;
     justify-content: center;
+    align-items: center;
 }
 
-input {
-    padding: .5rem;
-    border: none;
-    transition: all .3s ease-in-out;
-}
-
-.nome_email input:focus,
-.numero_titulo-motivo input:focus,
-textarea:focus {
-    outline: none;
-    background-color: #f1ec40;
-    color: #121212;
-}
-
-.nome_email input:focus::placeholder {
-    opacity: 0;
-}
-
-.nome_email input,
-.numero_titulo-motivo input,
-textarea,
-label {
-    font-family: 'Lato';
-    font-size: 1rem;
-}
-
-#entrar-contato form {
+form {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
     gap: 1rem;
+    padding: 1rem;
 }
 
 .nome_email,
-.numero_titulo-motivo {
+.numero_titulo {
     display: flex;
-    gap: 2rem;
+    gap: .5rem;
 }
 
-.nome,
-.email,
-.numero,
-.titulo-motivo {
-    width: 350px;
-}
-
-.teste {
-    display: flex;
-    flex-direction: column;
-    gap: .250rem;
-}
-
-.textarea_submit {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-}
-
+.nome_email .nome_email_div,
+.numero_titulo .numero_titulo_div,
+.textarea_submit,
 .textarea {
     display: flex;
     flex-direction: column;
-    width: 732px;
+    gap: .25rem;
+}
+
+.textarea_submit {
+    width: 540px;
+    gap: .5rem;
+}
+
+input {
+    width: 250px;
+    padding: .5rem;
+    border: none;
+    outline: none;
+}
+
+input::placeholder,
+textarea::placeholder {
+    opacity: 0;
 }
 
 textarea {
     resize: none;
 }
 
-.submit input {
-    width: 732px;
-    background-color: #ffffff;
-    padding: 1rem;
-    font-size: 1rem;
-    cursor: pointer;
-}
-
-.submit input:focus {
-    outline: none;
-}
-
-.submit input:hover {
+.textarea_submit .submit input {
+    width: 540px;
+    border: none;
     background-color: #f1ec40;
+    color: #121212;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: .75rem 0;
 }
 
-@media only screen and (max-width: 1365px){
-    textarea {
-        height: 100px;
+@media screen and (max-width: 600px) {
+    .nome_email,
+    .numero_titulo {
+        flex-direction: column;
+    }
+
+    .nome_email input,
+    .numero_titulo input {
+        width: calc(540px - 16px);
+    }
+
+    form {
+        gap: .5rem;
+    }
+
+    .nome_email input,
+    .numero_titulo input {
+        width: 400px;
+    }
+    
+    .textarea_submit {
+        width: calc(400px + 16px);
+    }
+
+    .textarea_submit .submit input {
+        width: calc(400px + 16px);
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .nome_email input,
+    .numero_titulo input {
+        width: 300px;
+    }
+    
+    .textarea_submit {
+        width: calc(300px + 16px);
+    }
+
+    .textarea_submit .submit input {
+        width: calc(300px + 16px);
     }
 }
