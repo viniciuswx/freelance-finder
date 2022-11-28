@@ -40,7 +40,7 @@ main {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    padding: 1.5rem;
+    padding: 2rem;
 }
 
 #info-profissao a button {
