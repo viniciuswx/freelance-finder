@@ -69,6 +69,7 @@ textarea::placeholder {
 
 textarea {
     resize: none;
+    outline: none;
 }
 
 .textarea_submit .submit input {
