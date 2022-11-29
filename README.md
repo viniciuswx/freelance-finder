@@ -33,7 +33,7 @@ HTML, CSS e JavaScript.
 
 ## 👨🏻‍💻 APRENDIZADOS
 
-Aprendi a colocar as boas práticas do HTML e CSS, colocando no projeto o HTML semântico e responsividade com CSS.
+Aprendi a colocar as boas práticas do HTML e CSS, colocando no projeto as tags semânticas do HTML e responsividade com CSS.
 
 
 ## 🧩 FEEDBACK
