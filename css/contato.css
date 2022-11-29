@@ -62,6 +62,12 @@ input {
     outline: none;
 }
 
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    appearance: none;
+    -webkit-appearance: none;
+}
+
 input::placeholder,
 textarea::placeholder {
     opacity: 0;
