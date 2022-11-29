@@ -68,11 +68,6 @@ input::-webkit-inner-spin-button {
     -webkit-appearance: none;
 }
 
-input::placeholder,
-textarea::placeholder {
-    opacity: 0;
-}
-
 textarea {
     resize: none;
     outline: none;
