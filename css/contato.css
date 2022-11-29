@@ -81,6 +81,7 @@ textarea {
     font-weight: bold;
     text-transform: uppercase;
     padding: .75rem 0;
+    cursor: pointer;
 }
 
 @media screen and (max-width: 600px) {
